@@ -1,4 +1,4 @@
-# FLexa – Your Virtual Assistant 🤖🎤  
+## FLexa – Your Virtual Assistant 🤖🎤  
 *A part of the Funclexa Project*
 
 FLexa is an advanced AI-powered **voice assistant web application** that allows users to interact using natural voice commands. It supports **English and Hindi**, performs real-world actions, and answers general questions intelligently using an AI language model.
